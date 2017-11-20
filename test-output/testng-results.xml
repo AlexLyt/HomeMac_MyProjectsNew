@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4834" started-at="2017-11-03T18:21:58Z" finished-at="2017-11-03T18:22:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4834" started-at="2017-11-03T18:21:58Z" finished-at="2017-11-03T18:22:03Z">
+      <class name="SeleniumObject">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:SeleniumObject@6cc4c815]" name="SetUp" is-config="true" duration-ms="2956" started-at="2017-11-03T14:21:58Z" finished-at="2017-11-03T14:22:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="testGooglePageTitleInIEBrowser()[pri:0, instance:SeleniumObject@6cc4c815]" name="testGooglePageTitleInIEBrowser" duration-ms="1586" started-at="2017-11-03T14:22:01Z" finished-at="2017-11-03T14:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGooglePageTitleInIEBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumObject@6cc4c815]" name="tearDown" is-config="true" duration-ms="282" started-at="2017-11-03T14:22:03Z" finished-at="2017-11-03T14:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumObject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
